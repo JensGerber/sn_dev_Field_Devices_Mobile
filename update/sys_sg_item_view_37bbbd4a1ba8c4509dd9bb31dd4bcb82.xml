@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Field Devices Mobile Field Assets">37bbbd4a1ba8c4509dd9bb31dd4bcb81</data_item>
+        <dependency_fields>account,acquisition_method,active_to,asset_tag,assigned,assigned_to</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"BackgroundColor":"#f1f1f1","Text":"","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"studio_template_field_id":"E1","TextColor":"#293e40","CornerRadius":2,"CellId":"account","TextAlignment":"Center","MaxLines":1,"Type":"Text"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E2","TextColor":"#7d8a8c","CellId":"acquisition_method","TextAlignment":"Right","MaxLines":1,"Type":"Text"}],"Alignment":"Right","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Horizontal","Distribution":"Equal","Type":"ViewGroup"},{"Text":"","Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","TextColor":"#293e40","CellId":"active_to","TextAlignment":"Left","MaxLines":2,"Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"Text":"Asset tag","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","TextColor":"#7d8a8c","studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"Margin":{"Right":8},"Type":"Text"},{"Width":22,"Height":22,"studio_template_field_id":"E5","CornerRadius":11,"CellId":"assigned","Scaling":"Fill","Margin":{"Right":6},"Type":"Image"},{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","TextColor":"#293e40","CellId":"asset_tag","TextAlignment":"Left","MaxLines":1,"Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"Text":"Assigned to","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","TextColor":"#7d8a8c","studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"Margin":{"Right":8},"Type":"Text"},{"Text":"","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","TextColor":"#293e40","CellId":"assigned_to","TextAlignment":"Left","MaxLines":1,"Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Distribution":"Auto","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>Field Assets List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:38:21</sys_created_on>
+        <sys_id>37bbbd4a1ba8c4509dd9bb31dd4bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field Assets List Screen Item View</sys_name>
+        <sys_package display_value="Field Devices Mobile" source="x_scbgh_field_dv1">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_scope>
+        <sys_update_name>sys_sg_item_view_37bbbd4a1ba8c4509dd9bb31dd4bcb82</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-10-18 21:38:21</sys_updated_on>
+        <table>u_alm_assets</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

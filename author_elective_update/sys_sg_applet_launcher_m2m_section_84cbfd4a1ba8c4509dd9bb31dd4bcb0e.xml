@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Field Devices Mobile">23bbb94a1ba8c4509dd9bb31dd4bcb8d</applet_launcher>
+        <order/>
+        <section display_value="Field Assets">88cbfd4a1ba8c4509dd9bb31dd4bcb0d</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:38:22</sys_created_on>
+        <sys_id>84cbfd4a1ba8c4509dd9bb31dd4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Field Devices Mobile" source="x_scbgh_field_dv1">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_84cbfd4a1ba8c4509dd9bb31dd4bcb0e</sys_update_name>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-10-18 21:38:22</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Field Devices Mobile">7e4bfd821ba8c4509dd9bb31dd4bcb3c</application>
+        <file_path/>
+        <instance_id>ea339f49dbee67c091232f17d49619f7</instance_id>
+        <instance_name>scbmtest</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_84cbfd4a1ba8c4509dd9bb31dd4bcb0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Field Devices Mobile">23bbb94a1ba8c4509dd9bb31dd4bcb8d</applet_launcher><order/><section display_value="Field Assets">88cbfd4a1ba8c4509dd9bb31dd4bcb0d</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>Jens.Gerber</sys_created_by><sys_created_on>2019-10-18 21:38:22</sys_created_on><sys_id>84cbfd4a1ba8c4509dd9bb31dd4bcb0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Field Devices Mobile" source="x_scbgh_field_dv1">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_package><sys_policy/><sys_scope display_value="Field Devices Mobile">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_84cbfd4a1ba8c4509dd9bb31dd4bcb0e</sys_update_name><sys_updated_by>Jens.Gerber</sys_updated_by><sys_updated_on>2019-10-18 21:38:22</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1726405506</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f64bfd821ba8c4509dd9bb31dd4bcb3f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:38:22</sys_created_on>
+        <sys_id>c4cbfd4a1ba8c4509dd9bb31dd4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16de0cea5a30000001</sys_recorded_at>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-10-18 21:38:22</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>40cbfd4ac2a8c450255b44b71c6c2214</update_guid>
+        <update_guid_history>40cbfd4ac2a8c450255b44b71c6c2214:-1726405506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:51:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>043bb8b8b73a4be08025b08930592a84</sys_id>
+        <sys_metadata>84cbfd4a1ba8c4509dd9bb31dd4bcb0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Field Devices Mobile" source="x_scbgh_field_dv1">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Field Devices Mobile">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_scope>
+        <sys_scope_delete display_value="">7fc19261f3b743ee82e0fae6eb21ecc4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_84cbfd4a1ba8c4509dd9bb31dd4bcb0e</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_84cbfd4a1ba8c4509dd9bb31dd4bcb0e">c4cbfd4a1ba8c4509dd9bb31dd4bcb14</sys_update_version>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-10-18 21:51:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

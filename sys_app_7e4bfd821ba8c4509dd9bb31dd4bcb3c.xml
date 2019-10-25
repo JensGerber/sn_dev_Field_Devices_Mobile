@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>0f4b714a1ba8c4509dd9bb31dd4bcbed</logo>
+        <menu/>
+        <name>Field Devices Mobile</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_scbgh_field_dv1</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Manage Field Devices</short_description>
+        <source>x_scbgh_field_dv1</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:36:22</sys_created_on>
+        <sys_id>7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Jens.Gerber</sys_updated_by>
+        <sys_updated_on>2019-10-18 21:36:23</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>AttributeRelationshipEditor_64x.png</file_name>
+        <hash>2248fea4b01b7833620a45d0e93e059e28ea5d5df486453e69021cadeabe759e</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>852</size_bytes>
+        <size_compressed>875</size_compressed>
+        <state>available</state>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:36:23</sys_created_on>
+        <sys_id>0f4b714a1ba8c4509dd9bb31dd4bcbed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-10-18 21:36:23</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>7e4bfd821ba8c4509dd9bb31dd4bcb3c</table_sys_id>
+        <u_public>false</u_public>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="AttributeRelationshipEditor_64x.png" sys_id="0f4b714a1ba8c4509dd9bb31dd4bcbed">0f4b714a1ba8c4509dd9bb31dd4bcbed</sys_attachment>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:36:23</sys_created_on>
+        <sys_id>4f4b714a1ba8c4509dd9bb31dd4bcbed</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AVQDq/yJUE5HDQoaCgAAAA1JSERSAAAAQAAAAEAIBgAAAKppcd4AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAgY0hSTQAAeiUAAICDAAD5/wAAgOkAAHUwAADqYAAAOpgAABdvkl/FRgAAAtpJREFUeNrsmjFP20AUx58hpqoIauOYCbWVmCIhhX4AMiC1S7t1oAv+AEyuxFQQqaCCTpWapf0AyVAysDUTEkMYu2CpkqdIqOoUwGqDWgkP7oIrx7V99vkuvrPvTYklO/7/cu/53d9PchwHihxTUPAoPICS/4AkSQAAkDQ1gs6zL1rPSNykrOo9GtcLBBAlXmudbAEAtPXVg6BzXAhjP/bz1Zc0N2vf+/Cc5vVKScR3+gPN/R4GgfsUQIivAQC4IIIg5K4I+sXfRq3TH2huSuQWQIj4YjwGEeLN9cZiO7cpQFK840gDrgCQFC+reu/33Z1tliEk6QSR4rXWydby5tGh99jswu5nliH8B6Ctrx6sNxbbAGAmFd/pDzTj3KrzBCFwBfggxBZ/mza1KAijP7NfuWiEvIITiP/XJxjnFixvHh2evX/x0gvBvqP8sn68fV0pX64w3wmiih2iYAZCkFW9VwYAViBgb4djNkmB6SCreq+8sPPOuq6ecgkgYYfINISpsH094faYWQilMHODwtY2sibYmPv5tCH5hXpXQAxvAGeTZNYfVQwvBGZrQFg6hDRLqdIhq4hcAVmuhJvLT0/czzPVjWOACXqCcWuC2ydgQgisCW5cf2++UeYuVm7uf3w6dvOEPcHYj8FJp0P5wd7u1Ug9zbQGZAlhprpxrDweNtzlz0wjlLfCiNUJUoIA9YeVM272AoQhZOYxpno3SAhCpgZr6pejKSFk7i4TeTuMCSGW08QFAAwISWy27BwhHAgxOkZgRTxxAFGB6TGauQGAEk5gc8UeAHu4vzayjKW5Sv2bPL/dZU080SIYFsp0tzmyjCV7uL/GmviJpYAy3W1eWbCnzCMLnjlpALEMkSQxNiTl+9dRaYBMKQqGCFUAPISYE6T6FOB1TpBksD4nKGaFBQABQAAQAAQAAUAAEAAEAAFAABAABIACBnU/gPRcH/U5QZECAkCx4u8AOQIbMqEFQioAAAAASUVORK5CYIJLHN7UVAMAAA==</data>
+        <length>1156</length>
+        <position>1</position>
+        <sys_attachment display_value="AttributeRelationshipEditor_64x.png" sys_id="0f4b714a1ba8c4509dd9bb31dd4bcbed">0f4b714a1ba8c4509dd9bb31dd4bcbed</sys_attachment>
+        <sys_created_by>Jens.Gerber</sys_created_by>
+        <sys_created_on>2019-10-18 21:36:23</sys_created_on>
+        <sys_id>cf4b714a1ba8c4509dd9bb31dd4bcbed</sys_id>
+    </sys_attachment_doc>
+</record_update>
