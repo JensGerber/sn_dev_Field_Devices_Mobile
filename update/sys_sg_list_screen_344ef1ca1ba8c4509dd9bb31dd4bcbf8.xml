@@ -20,13 +20,13 @@
         <sys_created_by>Jens.Gerber</sys_created_by>
         <sys_created_on>2019-10-18 21:49:20</sys_created_on>
         <sys_id>344ef1ca1ba8c4509dd9bb31dd4bcbf8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>choose City</sys_name>
         <sys_package display_value="Field Devices Mobile" source="x_scbgh_field_dv1">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Field Devices Mobile">7e4bfd821ba8c4509dd9bb31dd4bcb3c</sys_scope>
         <sys_update_name>sys_sg_list_screen_344ef1ca1ba8c4509dd9bb31dd4bcbf8</sys_update_name>
-        <sys_updated_by>Jens.Gerber</sys_updated_by>
-        <sys_updated_on>2019-10-18 21:49:20</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-25 11:58:41</sys_updated_on>
     </sys_sg_list_screen>
 </record_update>
